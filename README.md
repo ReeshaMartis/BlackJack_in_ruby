@@ -28,6 +28,9 @@ Play against the dealer and try to get as close to 21 as possible without going 
     ruby -v
    ```
    
-3. Run the game using:
-   ruby blackjack.rb
+3. Run the game
+   ```bash
+    ruby blackjack.rb
+   ```
+   
 
